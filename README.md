@@ -1,18 +1,21 @@
 # Git Client Preprocessing
 
 ## Git Version checken
-```
+
+```bash
 git --version
 ```
 
 ## Git installieren
 
 ### Mit HomeBrew installieren (MacOS)
-```
+
+```bash
 brew install git
 ```
 
 ### Mit Git-Installer installieren (Mac, Linux und Win)
+
 [Git Download Seite](https://git-scm.com/downloads)
 
 <br>
@@ -20,7 +23,8 @@ brew install git
 <br>
 
 # Git Credentials (Github)
-1) Auf www.github.com einloggen
+
+1) Auf <www.github.com> einloggen
 2) Profile/setting
 3) Developer Settings
 4) Personal Access Token
@@ -31,7 +35,7 @@ brew install git
 <br>
 <br>
 
-# Git - CLI
+## Git - CLI
 
 |Schritt | CLI Befehl | Beschreibung |
 | - | - | - |
